@@ -1,6 +1,6 @@
 {
 	"name" : "colresizable",
-	"version" : "1.6.0",
+	"version" : "1.6.0.fixForWidth",
     "description" : "jQuery plugin to resize table columns",
 	"title" : "colResizable",
 	"author" : {
